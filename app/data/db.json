@@ -1,0 +1,95 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Fix the footer links please",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "priority": "low",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "2",
+      "title": "Add in a new stylesheet",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "3",
+      "title": "Fix the footer links",
+      "body": "Lorem ipsum Triforce sit amet, Linkus Hyruleus tempus Ganondorf. Nunc ocarina sagittis quis Majoras Mask. Nulla in metus arcu. Suspendisse potenti. In vel mauris varius, consectetur Zora ipsum eget, Master Sword porttitor urna. Fusce elementum urna elit, eget eleifend velit consectetur eget. Integer vel lobortis ipsum, vitae auctor Ocarina of Time. Donec sed urna dapibus, interdum magna a, eleifend magna. Curabitur tincidunt enim a neque volutpat. Phasellus auctor magna vel nunc pretium, ut volutpat justo tristique. Pellentesque cursus convallis mauris, in tempus enim tincidunt vitae.",
+      "priority": "high",
+      "user_email": "peach@netninja.dev"
+    },
+    {
+      "id": "dd11",
+      "title": "my new ticket",
+      "body": "caca caca",
+      "priority": "high",
+      "user_email": "joaco@mail.com"
+    },
+    {
+      "id": "fb1e",
+      "title": "Ticket nuevo",
+      "body": "hola soy un ticket nuevo",
+      "priority": "medium",
+      "user_email": "joaco@mail.com"
+    },
+    {
+      "id": "7e90",
+      "title": "Funciona porfa",
+      "body": "funciona la puta q te pario",
+      "priority": "high",
+      "user_email": "joaco@mail.com"
+    },
+    {
+      "id": "2659",
+      "title": "hola",
+      "body": "dasdj hsah asja hl dkh as dhglak sd",
+      "priority": "medium",
+      "user_email": "joaco@mail.com"
+    },
+    {
+      "id": "6893",
+      "title": "Vamo leeds",
+      "body": "aguante bielsa",
+      "priority": "high",
+      "user_email": "joaco@mail.com"
+    },
+    {
+      "id": "ac7c",
+      "title": "Hola soy un ticket",
+      "body": "AGUENTEN LOS TICKEEEEEETS, AAAAGUANTEN LOS TICKEEEEEEEETS",
+      "priority": "high",
+      "user_email": "joaco@mail.com"
+    },
+    {
+      "id": "dc5e",
+      "title": "DALE UP LOCO",
+      "body": "ganen o balas",
+      "priority": "high",
+      "user_email": "joaco@mail.com"
+    },
+    {
+      "id": "bf62",
+      "title": "caca",
+      "body": "casdasdsa",
+      "priority": "medium",
+      "user_email": "joaco@mail.com"
+    },
+    {
+      "id": "5d2b",
+      "title": "asdas",
+      "body": "asdasd",
+      "priority": "medium",
+      "user_email": "joaco@mail.com"
+    },
+    {
+      "id": "43fe",
+      "title": "ksks",
+      "body": "asdasdas",
+      "priority": "medium",
+      "user_email": "joaco@mail.com"
+    }
+  ]
+}
